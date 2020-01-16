@@ -29,6 +29,7 @@ public class GameConfig extends WebMvcConfigurerAdapter{
 		tilesConfigurer.setDefinitions(new String[] {"/WEB-INF/views/**/tiles.xml"});
 		tilesConfigurer.setCheckRefresh(true);
 		return tilesConfigurer;
+		//blabla
 	}
 
 
