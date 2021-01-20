@@ -11,7 +11,7 @@
 
 	<properties>
 		<springframework.version>4.2.5.RELEASE</springframework.version>
-		<jackson.version>2.5.3</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<apachetiles.version>3.0.5</apachetiles.version>
 	</properties>
 
